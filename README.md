@@ -1,2 +1,2 @@
-# pythonday1
+# python
 learning python 
